@@ -11,13 +11,13 @@ router.get('/', (req, res) => {
 
 // get one product
 router.get('/:id', (req, res) => {
-  // find a single product by its `id`
+  // find a single product by its `id` 
   // be sure to include its associated Category and Tag data
-});
+}); 
 
 // create new product
 router.post('/', (req, res) => {
-  /* req.body should look like this...
+  /* req.body should look like this... ?
     {
       product_name: "Basketball",
       price: 200.00,
