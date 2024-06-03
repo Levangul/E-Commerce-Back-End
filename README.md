@@ -23,8 +23,9 @@
 
   Enter npm start in your terminal in order to initiate the server and view the data through Insomnia or in my case Thunder Client
 
-  Walkthrough:
-  https://drive.google.com/file/d/1Dz64s6zQ_5JxoZJLrOEOch5PCdh7pw39/view?usp=drive_link
+  Walkthrough: 
+  https://drive.google.com/file/d/1V4kgySGjhZpgKmsL4pM9fOV3sgvf6kuV/view?usp=sharing
+  
   
   
   
